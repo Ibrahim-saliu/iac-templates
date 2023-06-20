@@ -5,4 +5,4 @@
     - name: Create a resource group
       azure_rm_resourcegroup:
         name: "myansible-rg"
-        location: "westus2"
+        location: "eastus2"
