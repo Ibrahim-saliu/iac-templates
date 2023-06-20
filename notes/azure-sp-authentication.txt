@@ -5,7 +5,6 @@ mkdir ~/.azure
 vi ~/.azure/credentials
 
 [default]
-subscription_id=<your-subscription_id>
-client_id=<security-principal-appid>
-secret=<security-principal-password>
-tenant=<security-principal-tenant>
+subscription_id=
+client_id=
+tenant=
